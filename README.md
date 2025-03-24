@@ -13,3 +13,5 @@ my-multicontainer-app/ ├── app/ │ ├── app.py │ └── require
 
 ```bash
 docker-compose up --build
+
+Truy cập tại: http://localhost:5000
